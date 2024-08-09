@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat&width=10" alt="vipul7876" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat&width=10" alt="vipul7876" /> </p>
 <br/>
 <img src="./Assets/banner.png" alt="Front End Developer Banner" />
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul7876" alt="vipul7876" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul7876" alt="vipul7876" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
