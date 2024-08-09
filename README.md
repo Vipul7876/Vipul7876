@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7827F7&width=660&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipul+Sharma.+You+are+Welcome+!++%E2%9C%A8)" alt="Typing SVG" /></h1>
-<h3 align="center">A passionate frontend developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+<h3 align="center">A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
  </h3>
 
 <div align='center'>
