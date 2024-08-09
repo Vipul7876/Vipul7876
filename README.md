@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7827F7&width=660&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipul+Sharma.+You+are+Welcome+!++%E2%9C%A8)" alt="Typing SVG" /></h1>
-<h3 align="center">A passionate frontend developer from India ![FlagGIF](https://github.com/user-attachments/assets/fa4f6e34-d0be-4171-8c8d-3ae2c1a7da10)
+<h3 align="center">A passionate frontend developer from India <img src="https://github.com/user-attachments/assets/fa4f6e34-d0be-4171-8c8d-3ae2c1a7da10" alt="India"/>
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat" alt="vipul7876" /> </p>
