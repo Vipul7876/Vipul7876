@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7827F7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipul+Sharma.+You+are+Welcome+!++%E2%9C%A8)" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7827F7&width=660&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipul+Sharma.+You+are+Welcome+!++%E2%9C%A8)" alt="Typing SVG" /></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat" alt="vipul7876" /> </p>
