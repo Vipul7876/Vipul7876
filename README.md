@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India <img src="https://github.com/user-attachments/assets/fa4f6e34-d0be-4171-8c8d-3ae2c1a7da10" alt="India"/>
  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat&width=100" alt="vipul7876" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat&width=10" alt="vipul7876" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul7876" alt="vipul7876" /></a> </p>
 
