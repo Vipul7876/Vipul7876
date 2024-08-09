@@ -14,7 +14,7 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-👨‍💻 All of my projects are available at [https://vipul-sharma.netlify.app/](https://vipul-sharma.netlify.app/)
+👨‍💻 Explore my projects at [https://vipul-sharma.netlify.app/](https://vipul-sharma.netlify.app/)
 
 📫 How to reach me **vipulsharma3001@gmail.com**
 
