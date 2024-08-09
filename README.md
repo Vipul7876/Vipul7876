@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
  </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vipul7876&label=Profile%20views&color=0e75b6&style=flat&width=20" alt="vipul7876" /> </p>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=vipul7876&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 <br/>
 <img src="./Assets/banner.png" alt="Front End Developer Banner" />
 <br/>
